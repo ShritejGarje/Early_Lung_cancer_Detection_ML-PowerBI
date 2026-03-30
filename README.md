@@ -25,8 +25,8 @@ This project analyzes lung cancer risk using Power BI and Machine Learning. It i
 * High-risk group dominates cancer cases
 * Senior population shows highest impact
 
-## 📊 Dashboard Preview
-![Lung Cancer Dashboard](Dashboard.jpg)
+## 📊 Lung Cancer Dashboard
+![Lung Cancer Dashboard](Dashboard.jpeg)
 
 ## 🔗 Project Files
 
