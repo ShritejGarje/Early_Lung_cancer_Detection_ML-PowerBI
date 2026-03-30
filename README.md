@@ -1,20 +1,35 @@
 # Lung Cancer Risk Analysis & Predictive Dashboard
 
-This project uses Power BI and Machine Learning to analyze lung cancer risk factors such as age, smoking, and environmental exposure.
+## 📊 Overview
 
-## Tools Used
+This project analyzes lung cancer risk using Power BI and Machine Learning. It identifies key factors like age, smoking, and exposure.
+
+## ⚙️ Tools Used
 
 * Power BI
 * Python
+* Pandas, NumPy
 * Machine Learning
 
-## Key Insights
+## 🤖 ML Models
 
-* Smoking significantly increases cancer risk
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* KNN
+* Naive Bayes
+
+## 📌 Key Insights
+
+* Smoking strongly increases cancer risk
 * High-risk group dominates cancer cases
-* Senior population is most affected
+* Senior population shows highest impact
 
-## Files Included
+## 📊 Dashboard Preview
+![Lung Cancer Dashboard](Dashboard.jpg)
 
-* Dataset (.csv)
-* Power BI Dashboard (.pbix)
+## 🔗 Project Files
+
+* Dataset
+* Power BI Dashboard
+* ML Code
