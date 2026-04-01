@@ -28,6 +28,8 @@ This project analyzes lung cancer risk using Power BI and Machine Learning. It i
 ## 📊 Lung Cancer Dashboard
 ![Lung Cancer Dashboard](Dashboard.jpeg)
 ![Lung Cancer Dashboard](Dashboard1.jpeg)
+![Lung Cancer Dashboard](Dashboard2.jpeg)
+
 
 
 ## 🔗 Project Files
